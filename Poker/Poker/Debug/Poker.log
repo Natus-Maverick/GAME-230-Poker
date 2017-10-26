@@ -1,4 +1,5 @@
 ﻿  main.cpp
-c:\users\natus maverick\source\repos\poker\poker\main.cpp(219): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\natus maverick\source\repos\poker\poker\main.cpp(525): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\natus maverick\source\repos\poker\poker\main.cpp(686): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
   Poker.vcxproj -> C:\Users\Natus Maverick\source\repos\Poker\Debug\Poker.exe
   Poker.vcxproj -> C:\Users\Natus Maverick\source\repos\Poker\Debug\Poker.pdb (Partial PDB)
